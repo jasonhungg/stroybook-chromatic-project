@@ -60,6 +60,14 @@ export default {
 
 export const Primary = {
   args: {
-    label: 'Primary',
+    primary: true,
+    label: 'Button',
+  },
+};
+
+export const Large = {
+  args: {
+    size: 'large',
+    label: 'Button',
   },
 };
