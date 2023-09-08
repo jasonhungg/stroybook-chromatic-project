@@ -78,3 +78,10 @@ export const Small = {
     label: 'Button',
   },
 };
+
+export const Error = {
+  args: {
+    backgroundColor: 'red',
+    label: 'Button',
+  },
+};
