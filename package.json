@@ -39,5 +39,8 @@
     "vite": "^4.4.5"
   },
   "readme": "ERROR: No README data found!",
-  "_id": "storybook-chromatic-project@0.0.0"
+  "_id": "storybook-chromatic-project@0.0.0",
+  "resolutions": {
+    "jackspeak": "2.1.1"
+  }
 }
